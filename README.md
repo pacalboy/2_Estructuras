@@ -1,6 +1,8 @@
 # 2_Estructuras
 Estructuras de control.
 ## If_ElseIf_Else
+**If_ElseIf_Else**  
+
 1. Escribir un programa que pida dos números para calcular la división. Gestionar el error si se introduce un divisor 0 con una estructura condicional.  
 2. Para poder tributar es necesario ser mayor de 16 años y tener ingresos mensuales superiores a 1000€. El sistema pide al usuario edad e ingresos y si cumple los requisitos le aplica un 2.18% de impuestos.  
 3. Se van a dividir los alumnos de la clase en tres grupos por orden alfabético. A-J K-S T-Z. El usuario introduce un nombre y el sistema dice a qué grupo pertenece.  
@@ -16,6 +18,8 @@ eso produce que, si el String comienza por Ç por ejemplo,
 la aplicación indicaría que el alumno está en el grupo 3, sin llegar a gestionar el error.
 ~~~
 ## SwitchCase
+**SwitchCase**  
+
 1. El usuario introduce un mes un visualiza el número de días de ese mes. Si es febrero pedirá el año, calculará si es bisiesto y mostrará el número de días.
 2. Calculadora. El sistema pide dos números y un operador. Realiza y muestra el resultado de la operación con los dos valores. Implementa +, -, *, /, % .
 3. Calculador número de día anual. El usuario introduce día y mes. El sistema muestra en qué día del año nos encontramos.  
@@ -39,7 +43,7 @@ y una única estructura for.
 2. Muestra los números del 10 al 0  
 3. Muestra los números del 0 al 20 de 2 en dos  
 4. Muestra los múltiplos de 3 del 0 al 50. (0, 3, 6, 9, 12, 15, ..., 48)  
-5. Muestra el nombre del usuario 30 veces mostrando el número de cada vez:
+5. Muestra el nombre del usuario 30 veces mostrando el número de cada vez:  
 1 - Ángela  
 2 - Ángela  
 ...  
